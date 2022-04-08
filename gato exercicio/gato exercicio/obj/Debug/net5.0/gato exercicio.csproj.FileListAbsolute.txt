@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\VScode\gato exercicio\gato exercicio\obj\Debug\net5.0\gato exercicio.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\VScode\gato exercicio\gato exercicio\obj\Debug\net5.0\gato exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VScode\gato exercicio\gato exercicio\obj\Debug\net5.0\gato exercicio.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VScode\gato exercicio\gato exercicio\obj\Debug\net5.0\gato exercicio.AssemblyInfo.cs
+C:\Users\admin\Desktop\VScode\gato exercicio\gato exercicio\obj\Debug\net5.0\gato exercicio.csproj.CoreCompileInputs.cache
