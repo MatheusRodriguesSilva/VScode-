@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\bin\Debug\net5.0\aula 11 pratica.exe
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\bin\Debug\net5.0\aula 11 pratica.deps.json
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\bin\Debug\net5.0\aula 11 pratica.runtimeconfig.json
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\bin\Debug\net5.0\aula 11 pratica.runtimeconfig.dev.json
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\bin\Debug\net5.0\aula 11 pratica.dll
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\bin\Debug\net5.0\aula 11 pratica.pdb
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\aula 11 pratica.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\aula 11 pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\aula 11 pratica.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\aula 11 pratica.AssemblyInfo.cs
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\aula 11 pratica.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\aula 11 pratica.dll
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\refint\aula 11 pratica.dll
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\aula 11 pratica.pdb
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\aula 11 pratica.genruntimeconfig.cache
+C:\Users\admin\Desktop\VScode\aula 11 pratica\aula 11 pratica\obj\Debug\net5.0\ref\aula 11 pratica.dll
