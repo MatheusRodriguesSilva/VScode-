@@ -1,0 +1,27 @@
+using PraticaAula8.src;
+using System;
+
+namespace PraticaAula8
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("GATOS");
+            Gato garfild = new Gato("garfild", "amarelo", 1);
+            Gato bolotas = new Gato("bolotas", "branco", 2);
+            Gato spike = new Gato("spike", "preto", 3);
+            Gato felicia = new Gato("felicia", "branco", 4);
+
+            Console.WriteLine($"gato 1 é o {garfild.Nome} de cor {garfild.Cor} e tamanho {garfild.Tamanho}");
+            Console.WriteLine($"gato 2 é o {bolotas.Nome} de cor {tom.Cor} e tamanho {bolotas.Tamanho}");
+            Console.WriteLine($"gato 3 é o {spike.Nome} de cor {spike.Cor} e tamanho {spike.Tamanho}");
+            Console.WriteLine($"gato 3 é o {felicia.Nome} de cor {felicia.Cor} e tamanho {felicia.Tamanho}");
+
+            garfild.comer("lasanha");
+            tom.dormir();
+            string retorno = frajola.ronronar();
+            Console.WriteLine(retorno);
+        }
+    }
+}
